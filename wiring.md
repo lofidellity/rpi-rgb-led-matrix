@@ -68,12 +68,6 @@ chain 1, 2, and 3 below.
 If you only connect one panel or have one chain, connect it to `[1]` (:smile:); if you
 use parallel chains, add the other `[2]` and `[3]`.
 
-To make things quicker to navigate visually, each chain is marked with a separate
-icon:
-
-`[1]`=:smile:, `[2]`=:boom: and `[3]`=:droplet: ; signals that go to all
-chains have all icons.
-
 
 For a single board 
 
@@ -91,8 +85,8 @@ For a single board
 |                             -    |  17 |  18 | **C**
 |                           **B2** |  19 |  20 | -
 |                           **G2** |  21 |  22 | **D** (for 32 row matrix, 1:16)
-|                           **R1** |  23 |  24 | **R2** :smile:
-|                             -    |  25 |  26 | **B1** :smile:
+|                           **R1** |  23 |  24 | **R2**
+|                             -    |  25 |  26 | **B1**
 |                             -    |  27 |  28 | -
 |                             -    |  29 |  30 | -
 |                             -    |  31 |  32 | -
