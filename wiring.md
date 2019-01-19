@@ -76,6 +76,8 @@ chains have all icons.
 
 
 For a single board 
+
+
 |Connection                        | Pin | Pin |  Connection
 |---------------------------------:|:---:|:---:|:-----------------------------
 |                             -    |   1 |   2 | -
@@ -100,6 +102,8 @@ For a single board
 |                              -   |  39 |  40 | -
 
 For 2 Boards
+
+
 |Connection                        | Pin | Pin |  Connection
 |---------------------------------:|:---:|:---:|:-----------------------------
 |                             -    |   1 |   2 | -
@@ -125,6 +129,8 @@ For 2 Boards
 
 
 For 3 Boards
+
+
 |Connection                        | Pin | Pin |  Connection
 |---------------------------------:|:---:|:---:|:-----------------------------
 |                             -    |   1 |   2 | -
